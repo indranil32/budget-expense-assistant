@@ -1,0 +1,28 @@
+name: drift-monitor
+# Weekly check of production features against the training window. Fails (and notifies) when
+# the share of drifted features passes the threshold, which is the signal to retrain.
+# The synthetic FY2025 data is drifted on purpose, so this would fail every week here: it runs on
+# demand. Against real production data, uncomment the schedule.
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "17 4 * * 1"
+
+jobs:
+  drift:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          python-version: "3.12"
+      - run: uv pip install --system -e .
+      - name: Build features and training window
+        run: python -m budget_assistant.features.build && python -m budget_assistant.model.train
+      - name: Drift check
+        run: python -m budget_assistant.monitoring.drift --fail-on-drift
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: drift-report
+          path: data/monitoring/

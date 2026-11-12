@@ -1,0 +1,41 @@
+name: ci
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          python-version: "3.12"
+      - run: uv pip install --system -e ".[dev]"
+      - name: Lint
+        run: ruff check . && ruff format --check .
+      - name: Type check
+        run: mypy
+      - name: Tests
+        run: pytest -q
+      - name: Release gate (retrieval quality, classifier floor)
+        run: python evals/run_evals.py
+
+  ml-pipeline:
+    needs: test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          python-version: "3.12"
+      - run: uv pip install --system -e .
+      - name: Features -> train (MLflow) -> online scoring -> drift report
+        run: ./scripts/run_pipeline.sh
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ml-reports
+          path: |
+            data/monitoring/drift_report.html
+            data/monitoring/drift_summary.json
+            results/

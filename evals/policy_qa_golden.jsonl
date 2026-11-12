@@ -1,0 +1,7 @@
+{"q": "What is the daily allowance for a trip to Paris?", "expect_doc": "travel-policy", "expect_text": "900"}
+{"q": "Who must approve a claim of AED 30,000?", "expect_doc": "expense-claims", "expect_text": "finance director"}
+{"q": "Can I claim alcohol served at a business dinner?", "expect_doc": "hospitality", "expect_text": "not"}
+{"q": "Does unspent budget roll over to next year?", "expect_doc": "budget-management", "expect_text": "not"}
+{"q": "Who approves a budget transfer of AED 150,000 within my department?", "expect_doc": "budget-management", "expect_text": "director"}
+{"q": "What is the parking allowance for staff cars?", "expect_refusal": true}
+{"q": "How do I apply for annual leave?", "expect_refusal": true}
