@@ -16,7 +16,8 @@ jobs:
       - uses: astral-sh/setup-uv@v6
         with:
           python-version: "3.12"
-      - run: uv pip install --system -e .
+          activate-environment: true
+      - run: uv pip install -e .
       - name: Build features and training window
         run: python -m budget_assistant.features.build && python -m budget_assistant.model.train
       - name: Drift check
