@@ -1,0 +1,22 @@
+{"q": "What is the daily allowance when travelling to London?", "doc": "travel-policy", "section": "Per diem"}
+{"q": "Can a grade 2 employee fly business class to Singapore?", "doc": "travel-policy", "section": "Air travel"}
+{"q": "Do I need my director's sign-off before booking flights?", "doc": "travel-policy", "section": "Eligibility"}
+{"q": "Maximum nightly hotel rate that can be reimbursed", "doc": "travel-policy", "section": "Hotels"}
+{"q": "If I pay for an upgrade myself will it be refunded?", "doc": "travel-policy", "section": "Air travel"}
+{"q": "How many days do I have to submit an expense claim?", "doc": "expense-claims", "section": "Submission deadline"}
+{"q": "Is a credit card statement enough as proof?", "doc": "expense-claims", "section": "Receipts"}
+{"q": "Who approves a claim of AED 12,000?", "doc": "expense-claims", "section": "Approval levels"}
+{"q": "When will my approved claim be paid out?", "doc": "expense-claims", "section": "Payment"}
+{"q": "My claim is late, what happens now?", "doc": "expense-claims", "section": "Submission deadline"}
+{"q": "Spending limit per person for a business lunch with a partner bank", "doc": "hospitality", "section": "Allowed hospitality"}
+{"q": "Can wine at a client dinner be claimed?", "doc": "hospitality", "section": "Allowed hospitality"}
+{"q": "What is the cap on gifts for external visitors?", "doc": "hospitality", "section": "Gifts"}
+{"q": "How much can we spend per person on a team outing?", "doc": "hospitality", "section": "Internal events"}
+{"q": "Who approves moving AED 350,000 between budget lines?", "doc": "budget-management", "section": "Budget transfers"}
+{"q": "Does unused budget carry forward into next year?", "doc": "budget-management", "section": "Year-end"}
+{"q": "When must a department report a forecast overspend?", "doc": "budget-management", "section": "Year-end"}
+{"q": "Do purchase orders reduce available budget before the invoice is paid?", "doc": "budget-management", "section": "Commitments"}
+{"q": "At what burn rate is a department flagged by finance?", "doc": "budget-management", "section": "Monitoring"}
+{"q": "Can I buy a laptop myself and claim it back?", "doc": "it-procurement", "section": "Standard equipment"}
+{"q": "Is a security review needed for a new SaaS subscription?", "doc": "it-procurement", "section": "Software"}
+{"q": "Training trip abroad - which approvals do I need?", "doc": "travel-policy", "section": "Eligibility"}
