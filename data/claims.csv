@@ -1,0 +1,1001 @@
+claim_id,description,amount_aed,category,split
+C-00000,consultancy invoice for data analytics assessment,4926.48,professional_services,train
+C-00001,Lunch with ministry delegation,2015.15,hospitality,train
+C-00002,"Lunch with audit office delegation, see attached receipt",955.8,hospitality,train
+C-00003,Whiteboard markers and notebooks,746.05,office_supplies,train
+C-00004,"Wireless keyboard and mouse, see attached receipt",8867.58,it_equipment,train
+C-00005,workshop on project management in Singapore,6044.77,training,train
+C-00006,translation of partner bank agreement,2458.73,professional_services,train
+C-00007,legal review of contract with partner bank,3634.44,professional_services,train
+C-00008,visa fee for Paris trip,5799.95,travel,train
+C-00009,exam voucher for Python certification,2005.11,training,train
+C-00010,registration fee for data analytics course,609.21,training,train
+C-00011,filing folders for archive,6148.12,office_supplies,train
+C-00012,meal with visiting municipality team in Singapore,8586.19,hospitality,train
+C-00013,legal review of contract with partner bank,1487.48,professional_services,train
+C-00014,team event catering,7491.72,hospitality,train
+C-00015,external monitor for home office,4813.05,it_equipment,train
+C-00016,workshop on project management in Muscat,6807.18,training,train
+C-00017,Consultancy invoice for public procurement assessment - urgent,3069.25,professional_services,train
+C-00018,Team event catering - urgent,7742.33,hospitality,train
+C-00019,taxi from airport in Paris,5156.55,travel,train
+C-00020,filing folders for archive,3835.26,office_supplies,train
+C-00021,printer paper and toner,7760.59,office_supplies,train
+C-00022,travel and fees for public procurement course,7875.39,training,train
+C-00023,visa fee for Riyadh trip,7644.31,travel,train
+C-00024,Workshop on ifrs in london,2416.22,training,train
+C-00025,Desk organisers - urgent,5229.46,office_supplies,train
+C-00026,dinner for municipality visitors,4798.89,hospitality,train
+C-00027,flight to London for the budget forum,3657.83,travel,train
+C-00028,"Team event catering, see attached receipt",2178.63,hospitality,train
+C-00029,whiteboard markers and notebooks,5084.42,office_supplies,train
+C-00030,"hotel stay in Muscat, 2 nights",3350.96,travel,train
+C-00031,travel and fees for Python course,2722.43,training,train
+C-00032,Legal review of contract with partner bank (q3),6469.81,professional_services,train
+C-00033,online project management training subscription,7470.96,training,train
+C-00034,Meals during singapore trip - urgent,8507.66,it_equipment,train
+C-00035,translation of partner bank agreement,8094.87,professional_services,train
+C-00036,"hotel stay in Paris, 4 nights",3681.14,travel,train
+C-00037,coffee meeting with ministry officials,3016.38,hospitality,train
+C-00038,stationery for the team,2033.01,office_supplies,train
+C-00039,Stationery for the team - urgent,8703.33,office_supplies,train
+C-00040,"Wireless keyboard and mouse, see attached receipt",382.78,it_equipment,train
+C-00041,meal with visiting ministry team in Singapore,1743.11,hospitality,train
+C-00042,flight to Muscat for the IMF workshop,8290.11,travel,train
+C-00043,lunch with audit office delegation,3645.51,hospitality,train
+C-00044,external monitor for home office,43.64,it_equipment,train
+C-00045,wireless keyboard and mouse,4620.12,it_equipment,train
+C-00046,translation of partner bank agreement,7266.8,professional_services,train
+C-00047,workshop on public procurement in Muscat,6476.38,it_equipment,train
+C-00048,Stationery for the team,489.96,office_supplies,train
+C-00049,registration fee for public procurement course,6484.69,training,train
+C-00050,team event catering,7565.17,hospitality,train
+C-00051,wireless keyboard and mouse,2141.06,it_equipment,train
+C-00052,wireless keyboard and mouse,6369.52,it_equipment,train
+C-00053,taxi from airport in Muscat,3529.71,travel,train
+C-00054,Lunch with ministry delegation,7686.89,hospitality,train
+C-00055,desk organisers,300.06,office_supplies,train
+C-00056,noise-cancelling headset for calls,8166.08,it_equipment,train
+C-00057,Lunch with municipality delegation,2973.08,hospitality,train
+C-00058,Filing folders for archive - urgent,8999.17,office_supplies,train
+C-00059,USB-C docking station,5607.17,it_equipment,train
+C-00060,Registration fee for public procurement course - urgent,7009.02,training,train
+C-00061,registration fee for project management course,1817.03,training,train
+C-00062,meal with visiting ministry team in London,3150.95,hospitality,train
+C-00063,"Printer paper and toner, see attached receipt",5734.84,office_supplies,train
+C-00064,filing folders for archive,6589.99,office_supplies,train
+C-00065,external monitor for home office,6026.97,it_equipment,train
+C-00066,"External monitor for home office, see attached receipt",5019.89,office_supplies,train
+C-00067,lunch with partner bank delegation,6418.11,hospitality,train
+C-00068,printer paper and toner,3346.42,office_supplies,train
+C-00069,refreshments for stakeholder workshop,2105.62,hospitality,train
+C-00070,translation of partner bank agreement,6532.28,professional_services,train
+C-00071,lunch with audit office delegation,6383.85,hospitality,train
+C-00072,registration fee for data analytics course,5183.62,training,train
+C-00073,whiteboard markers and notebooks,3630.34,office_supplies,train
+C-00074,meals during Riyadh trip,1101.33,travel,train
+C-00075,desk organisers,8910.68,office_supplies,train
+C-00076,USB-C docking station,1447.23,it_equipment,train
+C-00077,"Exam voucher for public procurement certification, see attached receipt",6374.32,training,train
+C-00078,Translation of partner bank agreement (q3),5842.81,professional_services,train
+C-00079,"Usb-c docking station, see attached receipt",6309.61,it_equipment,train
+C-00080,noise-cancelling headset for calls,5449.27,it_equipment,train
+C-00081,meals during Muscat trip,5877.53,travel,train
+C-00082,wireless keyboard and mouse,2916.68,it_equipment,train
+C-00083,Taxi from airport in cairo - urgent,2858.07,travel,train
+C-00084,"Noise-cancelling headset for calls, see attached receipt",5618.8,it_equipment,train
+C-00085,printer paper and toner,6296.32,office_supplies,train
+C-00086,"hotel stay in Paris, 4 nights",2053.32,professional_services,train
+C-00087,flight to Paris for the IMF workshop,3762.79,travel,train
+C-00088,stationery for the team,7918.76,office_supplies,train
+C-00089,Train ticket to singapore for site visit,7792.73,travel,train
+C-00090,whiteboard markers and notebooks,2179.7,office_supplies,train
+C-00091,filing folders for archive,7139.85,office_supplies,train
+C-00092,notary and attestation fees,3985.14,professional_services,train
+C-00093,lunch with partner bank delegation,8724.06,hospitality,train
+C-00094,noise-cancelling headset for calls,7991.45,it_equipment,train
+C-00095,printer paper and toner,3928.38,office_supplies,train
+C-00096,Meals during riyadh trip - urgent,2668.58,travel,train
+C-00097,External monitor for home office,5592.6,it_equipment,train
+C-00098,Travel and fees for public procurement course - urgent,8094.22,training,train
+C-00099,Desk organisers,6225.21,office_supplies,train
+C-00100,stationery for the team,5190.31,office_supplies,train
+C-00101,notary and attestation fees,7502.24,professional_services,train
+C-00102,External monitor for home office (q3),5669.1,it_equipment,train
+C-00103,"Consultancy invoice for python assessment, see attached receipt",2967.4,professional_services,train
+C-00104,Stationery for the team,8707.76,office_supplies,train
+C-00105,replacement laptop charger,6528.98,it_equipment,train
+C-00106,desk organisers,4114.88,office_supplies,train
+C-00107,Consultancy invoice for project management assessment - urgent,5591.14,professional_services,train
+C-00108,team event catering,1292.4,hospitality,train
+C-00109,train ticket to Riyadh for site visit,6047.56,travel,train
+C-00110,notary and attestation fees,8453.92,professional_services,train
+C-00111,external monitor for home office,3331.32,office_supplies,train
+C-00112,notary and attestation fees,5789.67,professional_services,train
+C-00113,lunch with partner bank delegation,5005.7,hospitality,train
+C-00114,coffee meeting with ministry officials,1336.4,hospitality,train
+C-00115,exam voucher for data analytics certification,2171.87,training,train
+C-00116,Usb-c docking station,7011.03,office_supplies,train
+C-00117,refreshments for stakeholder workshop,7808.15,hospitality,train
+C-00118,meal with visiting municipality team in Riyadh,4432.81,hospitality,train
+C-00119,printer paper and toner,5284.87,office_supplies,train
+C-00120,consultancy invoice for IFRS assessment,6929.91,professional_services,train
+C-00121,notary and attestation fees,6577.33,professional_services,train
+C-00122,replacement laptop charger,875.34,it_equipment,train
+C-00123,"Taxi from airport in london, see attached receipt",7867.52,travel,train
+C-00124,printer paper and toner,1426.38,office_supplies,train
+C-00125,Printer paper and toner,7612.59,office_supplies,train
+C-00126,"Meal with visiting audit office team in muscat, see attached receipt",8296.98,hospitality,train
+C-00127,wireless keyboard and mouse,314.69,training,train
+C-00128,notary and attestation fees,2946.47,professional_services,train
+C-00129,Lunch with ministry delegation,5970.97,hospitality,train
+C-00130,filing folders for archive,2577.89,office_supplies,train
+C-00131,Consultancy invoice for public procurement assessment (q3),6915.45,professional_services,train
+C-00132,USB-C docking station,6344.89,it_equipment,train
+C-00133,Meal with visiting ministry team in singapore - urgent,7764.51,hospitality,train
+C-00134,"Refreshments for stakeholder workshop, see attached receipt",1579.98,hospitality,train
+C-00135,meal with visiting ministry team in Singapore,3628.03,hospitality,train
+C-00136,Taxi from airport in paris - urgent,4794.22,travel,train
+C-00137,Online data analytics training subscription (q3),5437.49,training,train
+C-00138,notary and attestation fees,3980.27,professional_services,train
+C-00139,whiteboard markers and notebooks,376.96,office_supplies,train
+C-00140,USB-C docking station,8589.91,it_equipment,train
+C-00141,Notary and attestation fees - urgent,4076.69,professional_services,train
+C-00142,USB-C docking station,3977.22,it_equipment,train
+C-00143,dinner for municipality visitors,509.2,hospitality,train
+C-00144,Translation of municipality agreement (q3),3026.92,professional_services,train
+C-00145,dinner for ministry visitors,5805.7,hospitality,train
+C-00146,wireless keyboard and mouse,1655.16,it_equipment,train
+C-00147,Workshop on data analytics in london - urgent,4588.9,training,train
+C-00148,team event catering,1493.74,hospitality,train
+C-00149,legal review of contract with municipality,2168.27,professional_services,train
+C-00150,filing folders for archive,8526.29,office_supplies,train
+C-00151,"Whiteboard markers and notebooks, see attached receipt",507.53,office_supplies,train
+C-00152,Desk organisers (q3),7486.18,office_supplies,train
+C-00153,"hotel stay in Cairo, 2 nights",3390.69,travel,train
+C-00154,whiteboard markers and notebooks,7130.77,office_supplies,train
+C-00155,Exam voucher for public procurement certification (q3),7521.27,hospitality,train
+C-00156,team event catering,467.84,hospitality,train
+C-00157,desk organisers,5702.32,office_supplies,train
+C-00158,coffee meeting with audit office officials,1718.33,hospitality,train
+C-00159,consultancy invoice for public procurement assessment,8830.11,professional_services,train
+C-00160,replacement laptop charger,3019.37,it_equipment,train
+C-00161,Taxi from airport in paris (q3),605.38,travel,train
+C-00162,printer paper and toner,7346.04,training,train
+C-00163,"Stationery for the team, see attached receipt",3955.08,office_supplies,train
+C-00164,filing folders for archive,4692.71,office_supplies,train
+C-00165,"Flight to cairo for the imf workshop, see attached receipt",5961.84,travel,train
+C-00166,noise-cancelling headset for calls,8208.0,it_equipment,train
+C-00167,dinner for municipality visitors,6759.09,hospitality,train
+C-00168,"Exam voucher for ifrs certification, see attached receipt",3284.87,training,train
+C-00169,meal with visiting municipality team in Cairo,4783.96,training,train
+C-00170,whiteboard markers and notebooks,8225.34,office_supplies,train
+C-00171,taxi from airport in Paris,4441.15,travel,train
+C-00172,flight to Cairo for the IMF workshop,8879.71,travel,train
+C-00173,translation of partner bank agreement,6313.96,professional_services,train
+C-00174,travel and fees for data analytics course,275.5,training,train
+C-00175,refreshments for stakeholder workshop,8996.37,hospitality,train
+C-00176,Notary and attestation fees,6133.78,professional_services,train
+C-00177,wireless keyboard and mouse,536.5,it_equipment,train
+C-00178,taxi from airport in London,4689.32,travel,train
+C-00179,replacement laptop charger,4543.06,it_equipment,train
+C-00180,Travel and fees for python course - urgent,767.76,training,train
+C-00181,consultancy invoice for Python assessment,4502.42,professional_services,train
+C-00182,Consultancy invoice for public procurement assessment - urgent,1456.4,professional_services,train
+C-00183,stationery for the team,3134.52,office_supplies,train
+C-00184,Whiteboard markers and notebooks,2261.35,office_supplies,train
+C-00185,train ticket to Muscat for site visit,6501.31,travel,train
+C-00186,Workshop on public procurement in muscat,4568.78,training,train
+C-00187,online project management training subscription,5902.17,training,train
+C-00188,printer paper and toner,3653.16,office_supplies,train
+C-00189,visa fee for Muscat trip,4075.18,travel,train
+C-00190,team event catering,8881.62,hospitality,train
+C-00191,"Coffee meeting with ministry officials, see attached receipt",7243.53,hospitality,train
+C-00192,team event catering,5563.84,hospitality,train
+C-00193,wireless keyboard and mouse,3340.49,it_equipment,train
+C-00194,notary and attestation fees,7054.82,professional_services,train
+C-00195,meal with visiting municipality team in Riyadh,2210.08,hospitality,train
+C-00196,Lunch with audit office delegation (q3),3716.98,hospitality,train
+C-00197,meal with visiting partner bank team in Paris,5973.55,hospitality,train
+C-00198,coffee meeting with audit office officials,6499.48,hospitality,train
+C-00199,consultancy invoice for data analytics assessment,2054.81,professional_services,train
+C-00200,external monitor for home office,8412.99,it_equipment,train
+C-00201,"Translation of audit office agreement, see attached receipt",8599.61,professional_services,train
+C-00202,train ticket to Paris for site visit,2469.35,travel,train
+C-00203,coffee meeting with ministry officials,2062.02,hospitality,train
+C-00204,workshop on IFRS in Singapore,8802.08,training,train
+C-00205,workshop on project management in Cairo,8175.12,training,train
+C-00206,"hotel stay in Muscat, 2 nights",365.61,travel,train
+C-00207,stationery for the team,1001.41,office_supplies,train
+C-00208,Wireless keyboard and mouse - urgent,3002.93,it_equipment,train
+C-00209,consultancy invoice for IFRS assessment,6825.25,professional_services,train
+C-00210,Workshop on ifrs in cairo (q3),4317.99,training,train
+C-00211,exam voucher for project management certification,142.46,hospitality,train
+C-00212,legal review of contract with audit office,4542.58,professional_services,train
+C-00213,translation of partner bank agreement,4324.51,professional_services,train
+C-00214,desk organisers,7437.41,office_supplies,train
+C-00215,travel and fees for Python course,1045.39,training,train
+C-00216,coffee meeting with audit office officials,6135.45,hospitality,train
+C-00217,translation of municipality agreement,4132.91,professional_services,train
+C-00218,meals during Singapore trip,5221.67,travel,train
+C-00219,Meals during riyadh trip (q3),6929.99,travel,train
+C-00220,Notary and attestation fees (q3),5895.67,professional_services,train
+C-00221,wireless keyboard and mouse,4188.51,it_equipment,train
+C-00222,Notary and attestation fees - urgent,328.67,professional_services,train
+C-00223,Translation of ministry agreement - urgent,2232.82,professional_services,train
+C-00224,"hotel stay in Muscat, 4 nights",2138.09,travel,train
+C-00225,consultancy invoice for data analytics assessment,586.18,professional_services,train
+C-00226,coffee meeting with municipality officials,8476.61,hospitality,train
+C-00227,consultancy invoice for public procurement assessment,6799.57,professional_services,train
+C-00228,stationery for the team,3771.91,office_supplies,train
+C-00229,coffee meeting with ministry officials,868.48,hospitality,train
+C-00230,Translation of ministry agreement (q3),4335.37,professional_services,train
+C-00231,USB-C docking station,6345.77,it_equipment,train
+C-00232,desk organisers,2803.46,office_supplies,train
+C-00233,noise-cancelling headset for calls,3748.81,it_equipment,train
+C-00234,"Meal with visiting municipality team in london, see attached receipt",2100.97,hospitality,train
+C-00235,refreshments for stakeholder workshop,4435.74,hospitality,train
+C-00236,online Python training subscription,4897.55,training,train
+C-00237,translation of municipality agreement,2113.64,professional_services,train
+C-00238,legal review of contract with ministry,8407.78,professional_services,train
+C-00239,printer paper and toner,4840.21,office_supplies,train
+C-00240,"External monitor for home office, see attached receipt",7344.32,hospitality,train
+C-00241,Usb-c docking station - urgent,5897.47,it_equipment,train
+C-00242,translation of municipality agreement,6337.49,professional_services,train
+C-00243,train ticket to Paris for site visit,2098.71,travel,train
+C-00244,notary and attestation fees,334.8,professional_services,train
+C-00245,wireless keyboard and mouse,5117.6,training,train
+C-00246,desk organisers,3138.9,office_supplies,train
+C-00247,Flight to singapore for the procurement summit,4435.81,travel,train
+C-00248,noise-cancelling headset for calls,2686.6,it_equipment,train
+C-00249,registration fee for public procurement course,3271.87,training,train
+C-00250,Train ticket to singapore for site visit,5030.59,office_supplies,train
+C-00251,lunch with ministry delegation,2946.9,hospitality,train
+C-00252,filing folders for archive,1284.01,hospitality,train
+C-00253,External monitor for home office - urgent,3275.68,it_equipment,train
+C-00254,workshop on public procurement in Muscat,8541.46,training,train
+C-00255,noise-cancelling headset for calls,1259.68,it_equipment,train
+C-00256,External monitor for home office,8711.16,it_equipment,train
+C-00257,online IFRS training subscription,1652.15,training,train
+C-00258,meal with visiting ministry team in London,1287.04,office_supplies,train
+C-00259,external monitor for home office,4333.94,it_equipment,train
+C-00260,filing folders for archive,5932.11,office_supplies,train
+C-00261,"Wireless keyboard and mouse, see attached receipt",2029.13,it_equipment,train
+C-00262,legal review of contract with municipality,4524.17,professional_services,train
+C-00263,noise-cancelling headset for calls,6582.15,it_equipment,train
+C-00264,noise-cancelling headset for calls,6283.0,it_equipment,train
+C-00265,Usb-c docking station (q3),8372.11,it_equipment,train
+C-00266,Legal review of contract with municipality,5682.65,professional_services,train
+C-00267,workshop on Python in Cairo,3523.97,training,train
+C-00268,"Consultancy invoice for python assessment, see attached receipt",1805.79,professional_services,train
+C-00269,train ticket to Muscat for site visit,1063.52,travel,train
+C-00270,Wireless keyboard and mouse - urgent,2177.61,it_equipment,train
+C-00271,meals during London trip,1704.35,travel,train
+C-00272,Legal review of contract with audit office,5589.91,professional_services,train
+C-00273,noise-cancelling headset for calls,3764.05,it_equipment,train
+C-00274,"Printer paper and toner, see attached receipt",1547.15,office_supplies,train
+C-00275,filing folders for archive,7416.61,office_supplies,train
+C-00276,Usb-c docking station (q3),2707.47,it_equipment,train
+C-00277,taxi from airport in Riyadh,5307.8,travel,train
+C-00278,wireless keyboard and mouse,7256.75,it_equipment,train
+C-00279,dinner for audit office visitors,8573.48,hospitality,train
+C-00280,meal with visiting ministry team in Riyadh,1176.92,hospitality,train
+C-00281,online public procurement training subscription,5665.2,training,train
+C-00282,printer paper and toner,62.16,office_supplies,train
+C-00283,notary and attestation fees,7430.63,professional_services,train
+C-00284,whiteboard markers and notebooks,6869.8,office_supplies,train
+C-00285,Train ticket to riyadh for site visit,1852.77,travel,train
+C-00286,Consultancy invoice for ifrs assessment (q3),504.01,professional_services,train
+C-00287,legal review of contract with ministry,1228.99,professional_services,train
+C-00288,workshop on project management in Riyadh,4320.19,training,train
+C-00289,registration fee for project management course,7327.78,training,train
+C-00290,exam voucher for Python certification,1948.98,training,train
+C-00291,Notary and attestation fees - urgent,5322.58,professional_services,train
+C-00292,"Filing folders for archive, see attached receipt",7019.57,office_supplies,train
+C-00293,Legal review of contract with audit office (q3),4474.19,it_equipment,train
+C-00294,meals during Muscat trip,1222.57,travel,train
+C-00295,team event catering,163.59,hospitality,train
+C-00296,workshop on Python in Muscat,778.55,travel,train
+C-00297,coffee meeting with ministry officials,8769.85,hospitality,train
+C-00298,workshop on project management in Muscat,2178.19,training,train
+C-00299,workshop on Python in Riyadh,5936.15,training,train
+C-00300,exam voucher for data analytics certification,7055.56,training,train
+C-00301,consultancy invoice for IFRS assessment,2476.95,professional_services,train
+C-00302,visa fee for Paris trip,4516.51,travel,train
+C-00303,coffee meeting with ministry officials,63.01,hospitality,train
+C-00304,train ticket to Singapore for site visit,8228.97,travel,train
+C-00305,legal review of contract with audit office,5160.96,professional_services,train
+C-00306,Flight to london for the imf workshop,7799.65,travel,train
+C-00307,wireless keyboard and mouse,2763.03,it_equipment,train
+C-00308,Dinner for partner bank visitors,254.24,hospitality,train
+C-00309,meal with visiting municipality team in Riyadh,971.38,hospitality,train
+C-00310,Refreshments for stakeholder workshop (q3),8079.7,hospitality,train
+C-00311,Dinner for ministry visitors,710.48,hospitality,train
+C-00312,meal with visiting audit office team in London,3560.86,hospitality,train
+C-00313,notary and attestation fees,5278.98,professional_services,train
+C-00314,workshop on public procurement in Cairo,6942.22,training,train
+C-00315,whiteboard markers and notebooks,401.36,office_supplies,train
+C-00316,External monitor for home office (q3),318.5,it_equipment,train
+C-00317,desk organisers,1292.55,office_supplies,train
+C-00318,"hotel stay in London, 4 nights",5816.38,travel,train
+C-00319,"Lunch with municipality delegation, see attached receipt",1137.85,hospitality,train
+C-00320,desk organisers,1588.35,office_supplies,train
+C-00321,online data analytics training subscription,2242.23,training,train
+C-00322,Wireless keyboard and mouse (q3),5798.17,it_equipment,train
+C-00323,team event catering,3122.55,hospitality,train
+C-00324,"Refreshments for stakeholder workshop, see attached receipt",564.98,hospitality,train
+C-00325,Desk organisers - urgent,6885.89,office_supplies,train
+C-00326,workshop on data analytics in Singapore,6653.42,training,train
+C-00327,USB-C docking station,7536.8,it_equipment,train
+C-00328,stationery for the team,218.55,office_supplies,train
+C-00329,Stationery for the team (q3),6978.32,professional_services,train
+C-00330,lunch with ministry delegation,1262.61,hospitality,train
+C-00331,workshop on project management in Paris,6254.3,training,train
+C-00332,coffee meeting with audit office officials,1181.04,hospitality,train
+C-00333,Notary and attestation fees - urgent,8432.72,hospitality,train
+C-00334,registration fee for project management course,834.99,training,train
+C-00335,consultancy invoice for project management assessment,3180.31,professional_services,train
+C-00336,flight to Cairo for the procurement summit,3433.26,travel,train
+C-00337,refreshments for stakeholder workshop,339.38,hospitality,train
+C-00338,flight to Riyadh for the audit conference,4941.53,travel,train
+C-00339,visa fee for Cairo trip,1447.65,travel,train
+C-00340,"Hotel stay in cairo, 2 nights",5163.06,travel,train
+C-00341,whiteboard markers and notebooks,4343.74,office_supplies,train
+C-00342,meals during Singapore trip,4259.66,it_equipment,train
+C-00343,notary and attestation fees,2399.13,professional_services,train
+C-00344,whiteboard markers and notebooks,7281.29,office_supplies,train
+C-00345,desk organisers,8429.8,office_supplies,train
+C-00346,refreshments for stakeholder workshop,4670.68,hospitality,train
+C-00347,team event catering,7283.81,hospitality,train
+C-00348,Registration fee for data analytics course - urgent,819.77,training,train
+C-00349,dinner for municipality visitors,1367.87,hospitality,train
+C-00350,Lunch with audit office delegation,5165.33,hospitality,train
+C-00351,filing folders for archive,481.65,it_equipment,train
+C-00352,whiteboard markers and notebooks,7729.78,office_supplies,train
+C-00353,legal review of contract with audit office,5460.61,professional_services,train
+C-00354,"hotel stay in Cairo, 2 nights",1464.39,travel,train
+C-00355,noise-cancelling headset for calls,2275.43,it_equipment,train
+C-00356,whiteboard markers and notebooks,5733.27,office_supplies,train
+C-00357,"hotel stay in Singapore, 2 nights",4292.26,travel,train
+C-00358,Coffee meeting with ministry officials (q3),7719.72,hospitality,train
+C-00359,Legal review of contract with ministry (q3),5840.45,professional_services,train
+C-00360,coffee meeting with municipality officials,4152.62,hospitality,train
+C-00361,travel and fees for Python course,5974.7,training,train
+C-00362,"Wireless keyboard and mouse, see attached receipt",5779.73,it_equipment,train
+C-00363,replacement laptop charger,7229.18,it_equipment,train
+C-00364,Dinner for municipality visitors,3665.21,hospitality,train
+C-00365,legal review of contract with municipality,2729.75,hospitality,train
+C-00366,travel and fees for IFRS course,6537.67,training,train
+C-00367,"Coffee meeting with partner bank officials, see attached receipt",3807.43,hospitality,train
+C-00368,wireless keyboard and mouse,5268.83,it_equipment,train
+C-00369,Coffee meeting with audit office officials (q3),1270.79,hospitality,train
+C-00370,travel and fees for project management course,5694.05,training,train
+C-00371,registration fee for project management course,1459.58,training,train
+C-00372,train ticket to Paris for site visit,378.02,travel,train
+C-00373,registration fee for IFRS course,2067.34,training,train
+C-00374,"Usb-c docking station, see attached receipt",4125.1,it_equipment,train
+C-00375,dinner for municipality visitors,1517.36,hospitality,train
+C-00376,stationery for the team,5868.84,training,train
+C-00377,Meals during singapore trip - urgent,472.19,travel,train
+C-00378,train ticket to Riyadh for site visit,5687.59,travel,train
+C-00379,USB-C docking station,980.03,it_equipment,train
+C-00380,"Consultancy invoice for public procurement assessment, see attached receipt",7490.23,professional_services,train
+C-00381,workshop on IFRS in Singapore,4346.75,training,train
+C-00382,Registration fee for data analytics course - urgent,8146.82,travel,train
+C-00383,consultancy invoice for IFRS assessment,7676.15,professional_services,train
+C-00384,replacement laptop charger,5983.66,it_equipment,train
+C-00385,Workshop on ifrs in muscat,3626.24,training,train
+C-00386,Filing folders for archive - urgent,8834.86,office_supplies,train
+C-00387,travel and fees for data analytics course,7768.68,training,train
+C-00388,"Legal review of contract with municipality, see attached receipt",5908.56,professional_services,train
+C-00389,meals during Muscat trip,2267.25,travel,train
+C-00390,noise-cancelling headset for calls,7672.77,it_equipment,train
+C-00391,workshop on project management in Singapore,4972.44,training,train
+C-00392,stationery for the team,4045.73,office_supplies,train
+C-00393,Meals during paris trip - urgent,7440.14,travel,train
+C-00394,meal with visiting audit office team in Singapore,7356.63,hospitality,train
+C-00395,Desk organisers (q3),59.68,office_supplies,train
+C-00396,replacement laptop charger,7403.67,it_equipment,train
+C-00397,Translation of ministry agreement (q3),6462.42,professional_services,train
+C-00398,flight to Paris for the budget forum,4557.61,travel,train
+C-00399,desk organisers,6585.23,travel,train
+C-00400,travel and fees for Python course,8246.56,training,train
+C-00401,online data analytics training subscription,7982.47,training,train
+C-00402,"Meal with visiting partner bank team in muscat, see attached receipt",6192.04,hospitality,train
+C-00403,legal review of contract with audit office,5152.92,professional_services,train
+C-00404,consultancy invoice for Python assessment,515.46,professional_services,train
+C-00405,"hotel stay in Singapore, 4 nights",1867.85,travel,train
+C-00406,lunch with municipality delegation,7179.63,office_supplies,train
+C-00407,"Translation of audit office agreement, see attached receipt",1859.66,professional_services,train
+C-00408,Whiteboard markers and notebooks - urgent,1715.31,office_supplies,train
+C-00409,Registration fee for public procurement course (q3),5272.52,training,train
+C-00410,external monitor for home office,5970.54,hospitality,train
+C-00411,desk organisers,7084.87,office_supplies,train
+C-00412,travel and fees for project management course,3006.36,training,train
+C-00413,wireless keyboard and mouse,4033.18,it_equipment,train
+C-00414,"Legal review of contract with ministry, see attached receipt",261.36,professional_services,train
+C-00415,dinner for ministry visitors,1764.91,hospitality,train
+C-00416,lunch with partner bank delegation,1950.05,hospitality,train
+C-00417,translation of partner bank agreement,3012.17,professional_services,train
+C-00418,"hotel stay in Singapore, 3 nights",4082.09,travel,train
+C-00419,printer paper and toner,606.61,office_supplies,train
+C-00420,Translation of audit office agreement,3457.47,professional_services,train
+C-00421,"Legal review of contract with audit office, see attached receipt",8618.23,training,train
+C-00422,visa fee for London trip,4852.88,travel,train
+C-00423,meals during Paris trip,1316.4,travel,train
+C-00424,online data analytics training subscription,4964.99,training,train
+C-00425,replacement laptop charger,6054.81,it_equipment,train
+C-00426,travel and fees for project management course,5948.42,training,train
+C-00427,Consultancy invoice for data analytics assessment (q3),6421.3,professional_services,train
+C-00428,consultancy invoice for public procurement assessment,2777.03,professional_services,train
+C-00429,Meal with visiting partner bank team in muscat - urgent,6557.73,hospitality,train
+C-00430,meals during Riyadh trip,4909.49,travel,train
+C-00431,coffee meeting with audit office officials,4613.29,hospitality,train
+C-00432,Printer paper and toner (q3),1645.14,office_supplies,train
+C-00433,coffee meeting with ministry officials,2116.48,hospitality,train
+C-00434,USB-C docking station,4113.61,it_equipment,train
+C-00435,flight to Paris for the audit conference,3313.06,office_supplies,train
+C-00436,translation of partner bank agreement,7362.44,professional_services,train
+C-00437,Noise-cancelling headset for calls - urgent,4650.29,it_equipment,train
+C-00438,"External monitor for home office, see attached receipt",6493.49,it_equipment,train
+C-00439,Filing folders for archive (q3),1247.13,office_supplies,train
+C-00440,coffee meeting with partner bank officials,5410.24,professional_services,train
+C-00441,meal with visiting partner bank team in Paris,4263.86,hospitality,train
+C-00442,filing folders for archive,2410.11,office_supplies,train
+C-00443,Notary and attestation fees - urgent,1853.04,professional_services,train
+C-00444,coffee meeting with municipality officials,7904.66,hospitality,train
+C-00445,lunch with ministry delegation,4717.52,hospitality,train
+C-00446,wireless keyboard and mouse,6682.89,it_equipment,train
+C-00447,Notary and attestation fees,2349.93,professional_services,train
+C-00448,flight to Muscat for the budget forum,6202.39,travel,train
+C-00449,USB-C docking station,3835.11,it_equipment,train
+C-00450,noise-cancelling headset for calls,5012.01,it_equipment,train
+C-00451,Wireless keyboard and mouse (q3),938.5,it_equipment,train
+C-00452,Dinner for municipality visitors - urgent,7416.37,hospitality,train
+C-00453,Filing folders for archive - urgent,6531.47,office_supplies,train
+C-00454,"Desk organisers, see attached receipt",1784.93,office_supplies,train
+C-00455,meal with visiting audit office team in London,8781.79,hospitality,train
+C-00456,Train ticket to singapore for site visit - urgent,8275.83,travel,train
+C-00457,team event catering,1782.95,hospitality,train
+C-00458,"Whiteboard markers and notebooks, see attached receipt",3086.09,office_supplies,train
+C-00459,taxi from airport in Muscat,2219.73,travel,train
+C-00460,Noise-cancelling headset for calls - urgent,3468.75,it_equipment,train
+C-00461,exam voucher for project management certification,2264.39,training,train
+C-00462,meals during Singapore trip,1998.35,travel,train
+C-00463,meal with visiting partner bank team in Paris,7859.77,hospitality,train
+C-00464,exam voucher for data analytics certification,6095.28,training,train
+C-00465,translation of audit office agreement,8087.17,professional_services,train
+C-00466,Refreshments for stakeholder workshop,4325.75,hospitality,train
+C-00467,refreshments for stakeholder workshop,2868.24,it_equipment,train
+C-00468,train ticket to Muscat for site visit,1716.89,it_equipment,train
+C-00469,noise-cancelling headset for calls,3795.07,it_equipment,train
+C-00470,noise-cancelling headset for calls,7335.15,it_equipment,train
+C-00471,legal review of contract with partner bank,6657.34,professional_services,train
+C-00472,stationery for the team,5076.76,office_supplies,train
+C-00473,lunch with partner bank delegation,5683.57,hospitality,train
+C-00474,Whiteboard markers and notebooks - urgent,3185.77,office_supplies,train
+C-00475,legal review of contract with audit office,4407.94,professional_services,train
+C-00476,translation of partner bank agreement,8359.96,professional_services,train
+C-00477,"Desk organisers, see attached receipt",5891.0,office_supplies,train
+C-00478,Notary and attestation fees - urgent,1160.36,professional_services,train
+C-00479,Registration fee for public procurement course,4953.97,training,train
+C-00480,visa fee for Riyadh trip,7973.82,travel,train
+C-00481,"Replacement laptop charger, see attached receipt",7748.9,it_equipment,train
+C-00482,noise-cancelling headset for calls,6290.7,it_equipment,train
+C-00483,workshop on Python in Paris,2075.07,training,train
+C-00484,Taxi from airport in cairo (q3),3121.21,travel,train
+C-00485,filing folders for archive,7179.04,office_supplies,train
+C-00486,refreshments for stakeholder workshop,5828.08,hospitality,train
+C-00487,printer paper and toner,4806.22,office_supplies,train
+C-00488,USB-C docking station,4096.79,it_equipment,train
+C-00489,Legal review of contract with ministry - urgent,2567.75,professional_services,train
+C-00490,Registration fee for data analytics course,2831.73,training,train
+C-00491,Filing folders for archive,679.61,office_supplies,train
+C-00492,whiteboard markers and notebooks,4008.93,office_supplies,train
+C-00493,legal review of contract with partner bank,8652.48,professional_services,train
+C-00494,"Usb-c docking station, see attached receipt",7992.18,it_equipment,train
+C-00495,translation of ministry agreement,5278.88,professional_services,train
+C-00496,printer paper and toner,2268.55,office_supplies,train
+C-00497,Desk organisers - urgent,1167.41,office_supplies,train
+C-00498,travel and fees for public procurement course,3249.18,training,train
+C-00499,registration fee for Python course,1740.39,training,train
+C-00500,online project management training subscription,4066.48,training,train
+C-00501,noise-cancelling headset for calls,6993.11,it_equipment,train
+C-00502,"Registration fee for data analytics course, see attached receipt",2930.5,training,train
+C-00503,translation of partner bank agreement,1850.63,professional_services,train
+C-00504,printer paper and toner,5469.34,office_supplies,train
+C-00505,meals during Cairo trip,8446.66,it_equipment,train
+C-00506,"Printer paper and toner, see attached receipt",738.3,office_supplies,train
+C-00507,Registration fee for python course (q3),5147.45,training,train
+C-00508,travel and fees for Python course,6000.57,training,train
+C-00509,"Hotel stay in muscat, 4 nights",8404.34,travel,train
+C-00510,Replacement laptop charger (q3),3400.57,it_equipment,train
+C-00511,dinner for municipality visitors,8847.29,hospitality,train
+C-00512,"Dinner for partner bank visitors, see attached receipt",8275.24,training,train
+C-00513,"Team event catering, see attached receipt",3329.06,hospitality,train
+C-00514,dinner for municipality visitors,6619.02,hospitality,train
+C-00515,notary and attestation fees,374.85,professional_services,train
+C-00516,lunch with municipality delegation,2071.39,hospitality,train
+C-00517,Translation of audit office agreement (q3),2968.41,professional_services,train
+C-00518,translation of ministry agreement,7085.86,professional_services,train
+C-00519,Registration fee for python course,6973.47,training,train
+C-00520,workshop on public procurement in Muscat,5068.06,training,train
+C-00521,legal review of contract with audit office,842.77,professional_services,train
+C-00522,consultancy invoice for project management assessment,6936.34,professional_services,train
+C-00523,"Travel and fees for public procurement course, see attached receipt",1437.68,training,train
+C-00524,Translation of partner bank agreement - urgent,2773.86,professional_services,train
+C-00525,desk organisers,6580.12,training,train
+C-00526,"Registration fee for project management course, see attached receipt",515.64,training,train
+C-00527,Translation of ministry agreement,2111.27,professional_services,train
+C-00528,Printer paper and toner,5063.76,office_supplies,train
+C-00529,consultancy invoice for public procurement assessment,3193.14,training,train
+C-00530,consultancy invoice for public procurement assessment,2061.22,professional_services,train
+C-00531,External monitor for home office (q3),3861.13,it_equipment,train
+C-00532,replacement laptop charger,7208.94,it_equipment,train
+C-00533,Travel and fees for data analytics course - urgent,1689.85,training,train
+C-00534,online project management training subscription,8051.41,training,train
+C-00535,legal review of contract with ministry,5466.22,professional_services,train
+C-00536,coffee meeting with ministry officials,1241.42,hospitality,train
+C-00537,Meal with visiting municipality team in singapore (q3),2067.41,hospitality,train
+C-00538,Printer paper and toner,7809.48,office_supplies,train
+C-00539,filing folders for archive,3448.15,office_supplies,train
+C-00540,wireless keyboard and mouse,7904.79,it_equipment,train
+C-00541,workshop on Python in Paris,8664.83,training,train
+C-00542,Workshop on public procurement in singapore - urgent,6221.98,training,train
+C-00543,workshop on data analytics in Riyadh,4079.94,training,train
+C-00544,exam voucher for project management certification,6414.77,training,train
+C-00545,registration fee for public procurement course,3481.42,training,train
+C-00546,coffee meeting with partner bank officials,5949.39,hospitality,train
+C-00547,exam voucher for public procurement certification,8650.26,training,train
+C-00548,USB-C docking station,7704.48,it_equipment,train
+C-00549,team event catering,751.47,hospitality,train
+C-00550,"Dinner for partner bank visitors, see attached receipt",369.02,professional_services,train
+C-00551,visa fee for Singapore trip,1637.11,travel,train
+C-00552,legal review of contract with ministry,8081.87,professional_services,train
+C-00553,visa fee for Riyadh trip,2498.79,travel,train
+C-00554,coffee meeting with ministry officials,8814.98,hospitality,train
+C-00555,refreshments for stakeholder workshop,8955.42,hospitality,train
+C-00556,wireless keyboard and mouse,7957.63,it_equipment,train
+C-00557,exam voucher for IFRS certification,6647.72,training,train
+C-00558,workshop on project management in Cairo,1942.55,training,train
+C-00559,consultancy invoice for project management assessment,6912.61,professional_services,train
+C-00560,taxi from airport in Cairo,8303.63,travel,train
+C-00561,printer paper and toner,7792.41,office_supplies,train
+C-00562,noise-cancelling headset for calls,2866.91,it_equipment,train
+C-00563,meal with visiting partner bank team in Singapore,3078.81,professional_services,train
+C-00564,stationery for the team,2857.91,office_supplies,train
+C-00565,"Flight to cairo for the imf workshop, see attached receipt",1608.11,travel,train
+C-00566,external monitor for home office,1420.54,it_equipment,train
+C-00567,wireless keyboard and mouse,1229.15,it_equipment,train
+C-00568,translation of ministry agreement,453.41,office_supplies,train
+C-00569,meal with visiting audit office team in Singapore,2915.09,hospitality,train
+C-00570,Travel and fees for ifrs course - urgent,176.7,training,train
+C-00571,"Lunch with audit office delegation, see attached receipt",5183.78,hospitality,train
+C-00572,travel and fees for IFRS course,6092.44,training,train
+C-00573,flight to Cairo for the procurement summit,3017.7,travel,train
+C-00574,travel and fees for Python course,8280.41,training,train
+C-00575,"Whiteboard markers and notebooks, see attached receipt",8219.24,office_supplies,train
+C-00576,whiteboard markers and notebooks,3188.91,office_supplies,train
+C-00577,whiteboard markers and notebooks,7178.95,office_supplies,train
+C-00578,USB-C docking station,4949.62,it_equipment,train
+C-00579,whiteboard markers and notebooks,1590.85,office_supplies,train
+C-00580,Notary and attestation fees,663.68,professional_services,train
+C-00581,Visa fee for cairo trip (q3),7989.86,travel,train
+C-00582,legal review of contract with audit office,4046.55,professional_services,train
+C-00583,online public procurement training subscription,5518.96,training,train
+C-00584,coffee meeting with ministry officials,7393.95,hospitality,train
+C-00585,replacement laptop charger,3469.79,it_equipment,train
+C-00586,stationery for the team,7596.22,office_supplies,train
+C-00587,external monitor for home office,1330.2,it_equipment,train
+C-00588,stationery for the team,3854.31,office_supplies,train
+C-00589,Workshop on public procurement in muscat - urgent,5218.33,training,train
+C-00590,consultancy invoice for IFRS assessment,3342.46,professional_services,train
+C-00591,meal with visiting audit office team in Riyadh,4729.28,hospitality,train
+C-00592,"Refreshments for stakeholder workshop, see attached receipt",4833.9,hospitality,train
+C-00593,Visa fee for cairo trip - urgent,6267.66,travel,train
+C-00594,Meal with visiting municipality team in muscat - urgent,5920.63,hospitality,train
+C-00595,wireless keyboard and mouse,7668.95,it_equipment,train
+C-00596,Wireless keyboard and mouse (q3),8194.78,it_equipment,train
+C-00597,Notary and attestation fees - urgent,3111.92,professional_services,train
+C-00598,visa fee for London trip,6544.95,travel,train
+C-00599,online IFRS training subscription,4307.04,training,train
+C-00600,Desk organisers,146.29,office_supplies,train
+C-00601,whiteboard markers and notebooks,5882.51,office_supplies,train
+C-00602,replacement laptop charger,6751.85,it_equipment,train
+C-00603,Legal review of contract with audit office - urgent,7491.94,professional_services,train
+C-00604,Visa fee for riyadh trip (q3),345.01,travel,train
+C-00605,team event catering,814.02,hospitality,train
+C-00606,Meal with visiting partner bank team in paris - urgent,5763.47,hospitality,train
+C-00607,replacement laptop charger,3020.59,it_equipment,train
+C-00608,taxi from airport in London,1638.84,travel,train
+C-00609,desk organisers,965.45,office_supplies,train
+C-00610,meals during Singapore trip,47.77,travel,train
+C-00611,taxi from airport in London,6948.08,travel,train
+C-00612,printer paper and toner,4359.31,office_supplies,train
+C-00613,dinner for ministry visitors,5837.79,hospitality,train
+C-00614,replacement laptop charger,8708.92,it_equipment,train
+C-00615,notary and attestation fees,1737.6,professional_services,train
+C-00616,meals during Muscat trip,5804.93,travel,train
+C-00617,filing folders for archive,423.62,office_supplies,train
+C-00618,meals during Paris trip,8326.35,travel,train
+C-00619,train ticket to Paris for site visit,1209.62,travel,train
+C-00620,Online python training subscription - urgent,1063.05,training,train
+C-00621,coffee meeting with audit office officials,2945.15,hospitality,train
+C-00622,"Legal review of contract with partner bank, see attached receipt",1305.48,professional_services,train
+C-00623,Whiteboard markers and notebooks - urgent,7127.83,office_supplies,train
+C-00624,Legal review of contract with ministry - urgent,6372.4,professional_services,train
+C-00625,refreshments for stakeholder workshop,4726.86,hospitality,train
+C-00626,stationery for the team,8554.67,office_supplies,train
+C-00627,Consultancy invoice for ifrs assessment - urgent,5585.53,professional_services,train
+C-00628,Refreshments for stakeholder workshop (q3),6179.78,hospitality,train
+C-00629,"Stationery for the team, see attached receipt",3035.28,office_supplies,train
+C-00630,printer paper and toner,674.9,office_supplies,train
+C-00631,travel and fees for public procurement course,2958.14,training,train
+C-00632,Flight to london for the procurement summit,526.88,travel,train
+C-00633,desk organisers,1779.63,office_supplies,train
+C-00634,External monitor for home office,4148.87,it_equipment,train
+C-00635,exam voucher for Python certification,7700.84,training,train
+C-00636,Visa fee for cairo trip,6636.16,travel,train
+C-00637,workshop on Python in Muscat,3783.24,training,train
+C-00638,train ticket to Paris for site visit,6282.02,travel,train
+C-00639,"hotel stay in Riyadh, 2 nights",2182.0,travel,train
+C-00640,"hotel stay in Paris, 3 nights",1282.07,office_supplies,train
+C-00641,consultancy invoice for IFRS assessment,3022.84,professional_services,train
+C-00642,taxi from airport in Paris,4652.04,travel,train
+C-00643,"Translation of municipality agreement, see attached receipt",1610.4,professional_services,train
+C-00644,team event catering,5855.38,hospitality,train
+C-00645,legal review of contract with audit office,3829.44,professional_services,train
+C-00646,taxi from airport in Cairo,6117.64,travel,train
+C-00647,Refreshments for stakeholder workshop,8085.59,hospitality,train
+C-00648,Usb-c docking station (q3),7879.94,it_equipment,train
+C-00649,lunch with partner bank delegation,4016.99,hospitality,train
+C-00650,translation of audit office agreement,5915.61,training,train
+C-00651,"Wireless keyboard and mouse, see attached receipt",1578.76,it_equipment,train
+C-00652,replacement laptop charger,1530.61,it_equipment,train
+C-00653,"Online data analytics training subscription, see attached receipt",5187.75,training,train
+C-00654,stationery for the team,4877.2,office_supplies,train
+C-00655,registration fee for public procurement course,1438.24,training,train
+C-00656,consultancy invoice for public procurement assessment,7204.2,professional_services,train
+C-00657,notary and attestation fees,1087.21,professional_services,train
+C-00658,"hotel stay in Cairo, 2 nights",1788.54,travel,train
+C-00659,dinner for municipality visitors,822.9,hospitality,train
+C-00660,refreshments for stakeholder workshop,3871.66,hospitality,train
+C-00661,Whiteboard markers and notebooks,6684.09,office_supplies,train
+C-00662,whiteboard markers and notebooks,1327.01,office_supplies,train
+C-00663,"Wireless keyboard and mouse, see attached receipt",3754.05,it_equipment,train
+C-00664,team event catering,418.41,hospitality,train
+C-00665,"Replacement laptop charger, see attached receipt",8606.0,it_equipment,train
+C-00666,"Consultancy invoice for public procurement assessment, see attached receipt",4457.73,professional_services,train
+C-00667,taxi from airport in Muscat,4305.32,travel,train
+C-00668,"Consultancy invoice for project management assessment, see attached receipt",4170.95,professional_services,train
+C-00669,legal review of contract with municipality,3229.62,professional_services,train
+C-00670,USB-C docking station,4911.66,it_equipment,train
+C-00671,"Replacement laptop charger, see attached receipt",3382.21,it_equipment,train
+C-00672,stationery for the team,5045.55,office_supplies,train
+C-00673,translation of ministry agreement,4336.48,professional_services,train
+C-00674,external monitor for home office,1102.63,it_equipment,train
+C-00675,Exam voucher for project management certification - urgent,3846.25,training,train
+C-00676,train ticket to Cairo for site visit,4640.77,travel,train
+C-00677,taxi from airport in Riyadh,8284.08,travel,train
+C-00678,exam voucher for IFRS certification,8478.93,training,train
+C-00679,coffee meeting with ministry officials,6878.67,hospitality,train
+C-00680,Coffee meeting with ministry officials (q3),8287.48,hospitality,train
+C-00681,legal review of contract with audit office,4647.69,professional_services,train
+C-00682,whiteboard markers and notebooks,6354.39,office_supplies,train
+C-00683,lunch with municipality delegation,6636.12,hospitality,train
+C-00684,notary and attestation fees,8057.0,professional_services,train
+C-00685,whiteboard markers and notebooks,5940.59,office_supplies,train
+C-00686,train ticket to Cairo for site visit,3074.14,travel,train
+C-00687,refreshments for stakeholder workshop,6903.11,hospitality,train
+C-00688,meal with visiting municipality team in Cairo,1360.47,hospitality,train
+C-00689,Whiteboard markers and notebooks - urgent,7479.6,office_supplies,train
+C-00690,stationery for the team,6851.14,office_supplies,train
+C-00691,notary and attestation fees,4900.25,professional_services,train
+C-00692,lunch with municipality delegation,4005.3,hospitality,train
+C-00693,meals during Singapore trip,3526.16,professional_services,train
+C-00694,"Train ticket to paris for site visit, see attached receipt",4472.43,travel,train
+C-00695,"Whiteboard markers and notebooks, see attached receipt",3165.94,office_supplies,train
+C-00696,consultancy invoice for public procurement assessment,545.79,professional_services,train
+C-00697,online IFRS training subscription,216.62,training,train
+C-00698,wireless keyboard and mouse,239.24,hospitality,train
+C-00699,noise-cancelling headset for calls,3050.27,it_equipment,train
+C-00700,meal with visiting audit office team in Singapore,1847.76,hospitality,valid
+C-00701,Translation of audit office agreement,7249.24,professional_services,valid
+C-00702,Lunch with audit office delegation,3866.87,hospitality,valid
+C-00703,replacement laptop charger,2291.33,it_equipment,valid
+C-00704,team event catering,5960.82,hospitality,valid
+C-00705,Consultancy invoice for python assessment,1363.78,professional_services,valid
+C-00706,Online project management training subscription,2431.74,training,valid
+C-00707,Replacement laptop charger - urgent,2240.46,it_equipment,valid
+C-00708,Wireless keyboard and mouse - urgent,2355.24,it_equipment,valid
+C-00709,external monitor for home office,792.01,it_equipment,valid
+C-00710,lunch with municipality delegation,2154.93,hospitality,valid
+C-00711,lunch with ministry delegation,6967.79,hospitality,valid
+C-00712,Wireless keyboard and mouse (q3),1958.41,it_equipment,valid
+C-00713,replacement laptop charger,2875.75,it_equipment,valid
+C-00714,stationery for the team,2801.22,office_supplies,valid
+C-00715,translation of audit office agreement,5764.98,professional_services,valid
+C-00716,translation of municipality agreement,3561.06,professional_services,valid
+C-00717,external monitor for home office,7317.74,it_equipment,valid
+C-00718,translation of municipality agreement,7576.82,professional_services,valid
+C-00719,translation of ministry agreement,6573.92,professional_services,valid
+C-00720,refreshments for stakeholder workshop,5784.25,hospitality,valid
+C-00721,Meals during singapore trip (q3),7628.77,travel,valid
+C-00722,consultancy invoice for data analytics assessment,7447.85,professional_services,valid
+C-00723,Noise-cancelling headset for calls - urgent,8311.09,it_equipment,valid
+C-00724,legal review of contract with audit office,486.06,professional_services,valid
+C-00725,Dinner for partner bank visitors,6969.3,hospitality,valid
+C-00726,Filing folders for archive,3463.38,office_supplies,valid
+C-00727,desk organisers,1347.65,office_supplies,valid
+C-00728,external monitor for home office,4145.15,it_equipment,valid
+C-00729,taxi from airport in Paris,5390.88,travel,valid
+C-00730,flight to Riyadh for the audit conference,8456.32,travel,valid
+C-00731,lunch with municipality delegation,6054.51,hospitality,valid
+C-00732,travel and fees for project management course,3079.02,training,valid
+C-00733,whiteboard markers and notebooks,8807.51,office_supplies,valid
+C-00734,whiteboard markers and notebooks,6863.61,office_supplies,valid
+C-00735,noise-cancelling headset for calls,5930.48,it_equipment,valid
+C-00736,Stationery for the team,3950.41,office_supplies,valid
+C-00737,whiteboard markers and notebooks,7807.24,office_supplies,valid
+C-00738,"hotel stay in Singapore, 4 nights",5287.67,travel,valid
+C-00739,lunch with ministry delegation,6105.1,hospitality,valid
+C-00740,Noise-cancelling headset for calls,4108.34,travel,valid
+C-00741,USB-C docking station,8998.4,it_equipment,valid
+C-00742,Lunch with ministry delegation,869.26,hospitality,valid
+C-00743,noise-cancelling headset for calls,2593.03,it_equipment,valid
+C-00744,consultancy invoice for project management assessment,7495.19,professional_services,valid
+C-00745,refreshments for stakeholder workshop,7306.51,hospitality,valid
+C-00746,meal with visiting audit office team in Cairo,5842.59,hospitality,valid
+C-00747,Notary and attestation fees,2731.52,professional_services,valid
+C-00748,Online project management training subscription - urgent,4640.19,training,valid
+C-00749,Lunch with audit office delegation - urgent,1060.86,hospitality,valid
+C-00750,Legal review of contract with municipality,6825.89,professional_services,valid
+C-00751,whiteboard markers and notebooks,5452.31,office_supplies,valid
+C-00752,translation of ministry agreement,4163.06,professional_services,valid
+C-00753,desk organisers,6225.03,office_supplies,valid
+C-00754,printer paper and toner,6276.45,office_supplies,valid
+C-00755,exam voucher for data analytics certification,4865.7,training,valid
+C-00756,Train ticket to london for site visit (q3),6659.48,travel,valid
+C-00757,Filing folders for archive,496.26,office_supplies,valid
+C-00758,meals during Cairo trip,4395.46,travel,valid
+C-00759,meal with visiting ministry team in Cairo,4997.17,hospitality,valid
+C-00760,noise-cancelling headset for calls,226.43,it_equipment,valid
+C-00761,noise-cancelling headset for calls,3078.81,it_equipment,valid
+C-00762,meal with visiting audit office team in Paris,8639.84,hospitality,valid
+C-00763,consultancy invoice for Python assessment,812.28,professional_services,valid
+C-00764,stationery for the team,1916.52,office_supplies,valid
+C-00765,Taxi from airport in singapore - urgent,3066.1,travel,valid
+C-00766,flight to Muscat for the IMF workshop,6933.59,travel,valid
+C-00767,coffee meeting with municipality officials,6811.65,hospitality,valid
+C-00768,visa fee for Riyadh trip,7842.99,travel,valid
+C-00769,replacement laptop charger,1422.49,it_equipment,valid
+C-00770,External monitor for home office,3098.23,it_equipment,valid
+C-00771,dinner for partner bank visitors,4785.67,hospitality,valid
+C-00772,workshop on public procurement in Cairo,6940.56,training,valid
+C-00773,translation of municipality agreement,3563.67,professional_services,valid
+C-00774,meals during London trip,6140.6,travel,valid
+C-00775,meal with visiting ministry team in Paris,5509.19,hospitality,valid
+C-00776,workshop on Python in Paris,7314.01,training,valid
+C-00777,legal review of contract with audit office,6670.87,professional_services,valid
+C-00778,travel and fees for IFRS course,5735.74,training,valid
+C-00779,Visa fee for singapore trip - urgent,7580.59,professional_services,valid
+C-00780,replacement laptop charger,86.71,it_equipment,valid
+C-00781,wireless keyboard and mouse,7343.11,it_equipment,valid
+C-00782,meal with visiting audit office team in Cairo,7412.67,hospitality,valid
+C-00783,External monitor for home office (q3),4307.23,it_equipment,valid
+C-00784,desk organisers,3983.12,office_supplies,valid
+C-00785,filing folders for archive,1199.29,office_supplies,valid
+C-00786,translation of municipality agreement,8498.86,professional_services,valid
+C-00787,USB-C docking station,400.93,it_equipment,valid
+C-00788,online project management training subscription,1313.57,training,valid
+C-00789,"Dinner for municipality visitors, see attached receipt",645.38,hospitality,valid
+C-00790,visa fee for Singapore trip,7509.8,travel,valid
+C-00791,travel and fees for public procurement course,2953.94,training,valid
+C-00792,Refreshments for stakeholder workshop,6633.78,hospitality,valid
+C-00793,legal review of contract with audit office,5809.47,professional_services,valid
+C-00794,visa fee for Muscat trip,207.23,travel,valid
+C-00795,legal review of contract with partner bank,5232.79,professional_services,valid
+C-00796,visa fee for Singapore trip,248.44,travel,valid
+C-00797,Printer paper and toner - urgent,4894.34,office_supplies,valid
+C-00798,"Replacement laptop charger, see attached receipt",1665.86,it_equipment,valid
+C-00799,Notary and attestation fees - urgent,504.83,professional_services,valid
+C-00800,"Travel and fees for python course, see attached receipt",4204.82,training,test
+C-00801,sticky notes and pens,6088.87,office_supplies,test
+C-00802,exam voucher for public procurement certification,7054.62,training,test
+C-00803,Seat at python bootcamp,8651.59,training,test
+C-00804,Tea and snacks for audit office meeting,8993.21,hospitality,test
+C-00805,Document attestation service - urgent,7481.26,professional_services,test
+C-00806,consultancy invoice for Python assessment,5731.12,professional_services,test
+C-00807,interpreter for partner bank meeting,2982.98,professional_services,test
+C-00808,Audit advisory fees,6871.69,professional_services,test
+C-00809,working lunch for ministry visitors,3412.33,hospitality,test
+C-00810,tea and snacks for municipality meeting,4023.42,hospitality,test
+C-00811,online data analytics training subscription,7283.39,training,test
+C-00812,e-learning licence: project management,1913.41,training,test
+C-00813,workshop on Python in Riyadh,5952.15,training,test
+C-00814,"Team event catering, see attached receipt",8404.73,hospitality,test
+C-00815,online Python training subscription,4107.18,training,test
+C-00816,printer paper and toner,4220.62,office_supplies,test
+C-00817,USB-C docking station,2873.53,it_equipment,test
+C-00818,sticky notes and pens,1804.02,office_supplies,test
+C-00819,HDMI cable and USB adapter,8418.14,it_equipment,test
+C-00820,laptop stand and cooling pad,8494.19,it_equipment,test
+C-00821,lunch with ministry delegation,8253.76,hospitality,test
+C-00822,sticky notes and pens,3909.28,office_supplies,test
+C-00823,visa fee for Riyadh trip,3723.53,travel,test
+C-00824,team event catering,5588.31,hospitality,test
+C-00825,Usb-c docking station - urgent,5352.26,it_equipment,test
+C-00826,exam voucher for project management certification,4023.83,training,test
+C-00827,tuition for project management programme,6799.19,training,test
+C-00828,wireless keyboard and mouse,3344.72,it_equipment,test
+C-00829,meals during Paris trip,5052.67,travel,test
+C-00830,accommodation near IMF workshop venue in London,6265.24,travel,test
+C-00831,whiteboard markers and notebooks,979.44,office_supplies,test
+C-00832,Airfare paris return,6621.89,travel,test
+C-00833,"Noise-cancelling headset for calls, see attached receipt",308.96,it_equipment,test
+C-00834,"Excess baggage charge, london (q3)",2001.75,travel,test
+C-00835,"Replacement laptop charger, see attached receipt",8199.41,it_equipment,test
+C-00836,"hotel stay in Cairo, 3 nights",3351.98,travel,test
+C-00837,wireless keyboard and mouse,1211.92,it_equipment,test
+C-00838,E-learning licence: project management - urgent,6877.22,training,test
+C-00839,banquet for ministry guests,7860.75,hospitality,test
+C-00840,refreshments for stakeholder workshop,6771.72,hospitality,test
+C-00841,consultancy invoice for data analytics assessment,6262.81,professional_services,test
+C-00842,Notary and attestation fees (q3),4090.64,professional_services,test
+C-00843,Renewal of python credential - urgent,1243.6,training,test
+C-00844,ride-hailing during London visit,3915.25,travel,test
+C-00845,Replacement laptop charger - urgent,3257.47,it_equipment,test
+C-00846,airfare Singapore return,4932.39,travel,test
+C-00847,portable SSD for backups,1275.27,it_equipment,test
+C-00848,consultancy invoice for project management assessment,7403.88,professional_services,test
+C-00849,Interpreter for partner bank meeting,6513.69,professional_services,test
+C-00850,sticky notes and pens,7682.38,office_supplies,test
+C-00851,Accommodation near budget forum venue in singapore,6184.43,travel,test
+C-00852,desk organisers,8302.41,office_supplies,test
+C-00853,Online public procurement training subscription,1727.51,training,test
+C-00854,"excess baggage charge, Paris",1631.62,travel,test
+C-00855,"Translation of municipality agreement, see attached receipt",5949.75,professional_services,test
+C-00856,ride-hailing during Muscat visit,8906.77,travel,test
+C-00857,workshop on public procurement in Paris,2815.42,training,test
+C-00858,legal review of contract with partner bank,4152.25,professional_services,test
+C-00859,seat at public procurement bootcamp,5140.29,training,test
+C-00860,sticky notes and pens,6416.37,office_supplies,test
+C-00861,webcam for video meetings,5945.36,it_equipment,test
+C-00862,notary and attestation fees,4858.13,professional_services,test
+C-00863,Legal review of contract with ministry - urgent,4559.38,professional_services,test
+C-00864,Webcam for video meetings,3455.15,it_equipment,test
+C-00865,interpreter for audit office meeting,1262.87,professional_services,test
+C-00866,notary and attestation fees,1296.69,professional_services,test
+C-00867,external monitor for home office,3542.01,it_equipment,test
+C-00868,Flight to paris for the audit conference - urgent,8038.48,travel,test
+C-00869,Working lunch for audit office visitors - urgent,476.04,hospitality,test
+C-00870,stationery for the team,8904.04,office_supplies,test
+C-00871,USB-C docking station,1004.85,it_equipment,test
+C-00872,Webcam for video meetings (q3),988.73,it_equipment,test
+C-00873,laptop stand and cooling pad,631.51,it_equipment,test
+C-00874,replacement laptop charger,4516.2,it_equipment,test
+C-00875,visa fee for London trip,6113.99,travel,test
+C-00876,Interpreter for ministry meeting,3466.05,professional_services,test
+C-00877,Translation of ministry agreement,6824.92,professional_services,test
+C-00878,tea and snacks for partner bank meeting,5792.67,hospitality,test
+C-00879,travel and fees for data analytics course,6854.03,training,test
+C-00880,refreshments for stakeholder workshop,2210.55,hospitality,test
+C-00881,tea and snacks for municipality meeting,4003.55,hospitality,test
+C-00882,"Excess baggage charge, riyadh (q3)",5349.97,travel,test
+C-00883,Tuition for project management programme,1620.86,training,test
+C-00884,e-learning licence: project management,3261.85,training,test
+C-00885,ink cartridges for the office printer,3869.48,office_supplies,test
+C-00886,taxi from airport in Muscat,2780.39,travel,test
+C-00887,Laptop stand and cooling pad (q3),77.46,it_equipment,test
+C-00888,dinner for municipality visitors,4426.38,hospitality,test
+C-00889,Translation of municipality agreement,8615.59,professional_services,test
+C-00890,actuarial review for municipality,2211.48,professional_services,test
+C-00891,taxi from airport in Paris,6142.36,travel,test
+C-00892,webcam for video meetings,8768.34,it_equipment,test
+C-00893,"hotel stay in Cairo, 4 nights",8710.44,travel,test
+C-00894,consultancy invoice for IFRS assessment,7185.9,professional_services,test
+C-00895,seat at project management bootcamp,54.14,training,test
+C-00896,Train ticket to muscat for site visit (q3),6348.26,travel,test
+C-00897,tuition for data analytics programme,7290.24,training,test
+C-00898,E-learning licence: data analytics - urgent,2519.79,training,test
+C-00899,Webcam for video meetings - urgent,6001.29,it_equipment,test
+C-00900,airfare Cairo return,3055.49,travel,test
+C-00901,"Consultancy invoice for public procurement assessment, see attached receipt",7862.77,professional_services,test
+C-00902,"Excess baggage charge, paris (q3)",3341.13,travel,test
+C-00903,refreshments for stakeholder workshop,7321.07,hospitality,test
+C-00904,flight to Paris for the audit conference,6663.27,travel,test
+C-00905,"Excess baggage charge, paris (q3)",7833.93,travel,test
+C-00906,meal with visiting municipality team in Muscat,6070.64,hospitality,test
+C-00907,refreshments for stakeholder workshop,2220.47,hospitality,test
+C-00908,registration fee for IFRS course,6906.13,training,test
+C-00909,workshop on data analytics in Paris,3021.9,training,test
+C-00910,travel and fees for public procurement course,5074.62,training,test
+C-00911,Stationery for the team (q3),6711.78,office_supplies,test
+C-00912,"Hotel stay in singapore, 3 nights (q3)",7630.18,travel,test
+C-00913,envelopes for official letters,4863.1,office_supplies,test
+C-00914,Envelopes for official letters - urgent,5405.97,office_supplies,test
+C-00915,USB-C docking station,3415.31,it_equipment,test
+C-00916,webcam for video meetings,2719.95,it_equipment,test
+C-00917,legal review of contract with municipality,3160.83,professional_services,test
+C-00918,Envelopes for official letters - urgent,7654.3,office_supplies,test
+C-00919,interpreter for municipality meeting,1919.51,professional_services,test
+C-00920,audit advisory fees,1547.28,professional_services,test
+C-00921,"excess baggage charge, London",1371.17,travel,test
+C-00922,audit advisory fees,8592.82,professional_services,test
+C-00923,Translation of municipality agreement - urgent,780.43,professional_services,test
+C-00924,desk organisers,887.2,office_supplies,test
+C-00925,welcome breakfast for new joiners,6435.36,hospitality,test
+C-00926,working lunch for ministry visitors,8082.52,hospitality,test
+C-00927,Exam voucher for project management certification (q3),5887.66,training,test
+C-00928,flight to Riyadh for the budget forum,1577.56,travel,test
+C-00929,document attestation service,6268.11,professional_services,test
+C-00930,Dinner for ministry visitors (q3),2725.39,hospitality,test
+C-00931,Travel and fees for python course,706.26,training,test
+C-00932,webcam for video meetings,6262.86,it_equipment,test
+C-00933,banquet for partner bank guests,2874.59,hospitality,test
+C-00934,binders and labels,631.0,office_supplies,test
+C-00935,Document attestation service (q3),3432.55,professional_services,test
+C-00936,flight to London for the audit conference,6316.08,travel,test
+C-00937,Wireless keyboard and mouse,4312.68,it_equipment,test
+C-00938,seat at data analytics bootcamp,513.67,training,test
+C-00939,consultancy invoice for Python assessment,3973.08,professional_services,test
+C-00940,wireless keyboard and mouse,819.0,it_equipment,test
+C-00941,Portable ssd for backups - urgent,797.88,it_equipment,test
+C-00942,noise-cancelling headset for calls,6178.69,it_equipment,test
+C-00943,Translation of partner bank agreement,6335.22,professional_services,test
+C-00944,Audit advisory fees (q3),4642.61,professional_services,test
+C-00945,"Excess baggage charge, london - urgent",2638.98,travel,test
+C-00946,binders and labels,8045.02,office_supplies,test
+C-00947,Filing folders for archive - urgent,86.18,office_supplies,test
+C-00948,Document attestation service (q3),3720.04,professional_services,test
+C-00949,envelopes for official letters,8034.05,office_supplies,test
+C-00950,lunch with partner bank delegation,92.06,hospitality,test
+C-00951,interpreter for municipality meeting,8112.94,professional_services,test
+C-00952,workshop on IFRS in Paris,7206.39,training,test
+C-00953,actuarial review for ministry,1170.07,professional_services,test
+C-00954,external monitor for home office,2568.72,it_equipment,test
+C-00955,"Hotel stay in muscat, 2 nights - urgent",7782.93,travel,test
+C-00956,actuarial review for partner bank,5337.12,professional_services,test
+C-00957,audit advisory fees,3859.67,professional_services,test
+C-00958,working lunch for audit office visitors,2113.59,hospitality,test
+C-00959,"Hdmi cable and usb adapter, see attached receipt",8489.27,it_equipment,test
+C-00960,document attestation service,2921.89,professional_services,test
+C-00961,HDMI cable and USB adapter,1039.3,it_equipment,test
+C-00962,interpreter for audit office meeting,1921.9,professional_services,test
+C-00963,sticky notes and pens,8332.49,office_supplies,test
+C-00964,visa fee for Singapore trip,432.55,travel,test
+C-00965,renewal of project management credential,8201.21,training,test
+C-00966,airfare London return,584.71,travel,test
+C-00967,actuarial review for municipality,7023.17,professional_services,test
+C-00968,stationery for the team,7917.23,office_supplies,test
+C-00969,Banquet for audit office guests (q3),448.69,hospitality,test
+C-00970,seat at project management bootcamp,8906.24,training,test
+C-00971,"Registration fee for python course, see attached receipt",6509.83,training,test
+C-00972,whiteboard markers and notebooks,2546.02,office_supplies,test
+C-00973,wireless keyboard and mouse,4975.87,it_equipment,test
+C-00974,envelopes for official letters,3927.78,office_supplies,test
+C-00975,Registration fee for public procurement course,8492.46,training,test
+C-00976,registration fee for data analytics course,662.31,training,test
+C-00977,"excess baggage charge, Paris",145.63,travel,test
+C-00978,airfare Riyadh return,2438.2,travel,test
+C-00979,translation of partner bank agreement,5083.15,professional_services,test
+C-00980,whiteboard markers and notebooks,2436.41,office_supplies,test
+C-00981,Working lunch for municipality visitors (q3),255.05,hospitality,test
+C-00982,envelopes for official letters,7412.15,office_supplies,test
+C-00983,airfare London return,1100.42,travel,test
+C-00984,Visa fee for london trip,1385.97,travel,test
+C-00985,consultancy invoice for project management assessment,2417.99,professional_services,test
+C-00986,translation of partner bank agreement,7179.78,professional_services,test
+C-00987,printer paper and toner,1182.72,office_supplies,test
+C-00988,ink cartridges for the office printer,5899.43,office_supplies,test
+C-00989,E-learning licence: python,4761.44,training,test
+C-00990,Legal review of contract with audit office - urgent,3287.09,professional_services,test
+C-00991,printer paper and toner,7523.86,office_supplies,test
+C-00992,Refreshments for stakeholder workshop (q3),3422.05,hospitality,test
+C-00993,train ticket to Singapore for site visit,7839.47,travel,test
+C-00994,accommodation near IMF workshop venue in Riyadh,3771.79,travel,test
+C-00995,seat at public procurement bootcamp,7041.32,training,test
+C-00996,Audit advisory fees,7500.81,professional_services,test
+C-00997,Notary and attestation fees (q3),2475.58,professional_services,test
+C-00998,"hotel stay in Paris, 2 nights",7409.64,travel,test
+C-00999,lunch with audit office delegation,7452.19,hospitality,test
